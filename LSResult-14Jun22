@@ -1,0 +1,31 @@
+
+F:\Android\XT1925\Temp-9>adb shell
+ali_n:/ $ su
+ali_n:/ # ls -l /data/adb/modules/
+
+total 48
+drwx------ 4 root root 4096 2022-06-13 18:27 acc
+drwxr-xr-x 3 root root 4096 2022-06-13 18:27 hosts
+drwxr-xr-x 3 root root 4096 2022-06-13 18:27 safetynet-fix
+drwxr-xr-x 3 root root 4096 2022-06-13 18:27 substratum
+drwxr-xr-x 5 root root 4096 2022-06-14 01:29 zygisk_lsposed
+drwxr-xr-x 3 root root 4096 1972-08-02 06:18 zygisk_shamiko
+
+ali_n:/ # ls -l /data/adb/modules/zygisk_lsposed
+total 924
+-rwxr--r-- 1 root root   1455 2022-06-14 01:28 daemon
+-rw-r--r-- 1 root root 616130 2022-06-14 01:28 daemon.apk
+drwxr-xr-x 2 root root   4096 2022-06-14 01:28 framework
+-rw-r--r-- 1 root root 268948 2022-06-14 01:28 libdaemon.so
+-rw-r--r-- 1 root root    311 2022-06-14 01:28 module.prop
+drwx--x--x 3 root root   4096 2022-06-14 01:29 oat
+-rw-r--r-- 1 root root    806 2022-06-14 01:28 post-fs-data.sh
+-rw-r--r-- 1 root root    855 2022-06-14 01:28 service.sh
+-rw-r--r-- 1 root root     50 2022-06-14 01:28 system.prop
+-rw-r--r-- 1 root root   1014 2022-06-14 01:28 uninstall.sh
+drwxr-xr-x 2 root root   4096 2022-06-14 01:28 zygisk
+
+ali_n:/ # ls -l /data/adb/lspd
+total 7448
+-rw-r--r-- 1 root root 7617794 2022-06-14 01:28 manager.apk
+ali_n:/ #
