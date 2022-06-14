@@ -1,0 +1,103 @@
+- Copying zip to temp directory
+- Installing LSPosed-v1.8.3-6568-zygisk-debug.zip
+Archive:  /data/user/0/zsjiaytb.wx/cache/flash/install.zip
+  inflating: module.prop
+***********************
+ Zygisk - LSPosed 
+ by LSPosed Developers 
+***********************
+Archive:  /data/user/0/zsjiaytb.wx/cache/flash/install.zip
+  inflating: customize.sh
+Archive:  /data/user/0/zsjiaytb.wx/cache/flash/install.zip
+  inflating: verify.sh
+*******************
+ Powered by Magisk 
+*******************
+- LSPosed version v1.8.3 (6568)
+Archive:  /data/user/0/zsjiaytb.wx/cache/flash/install.zip
+   creating: META-INF/com/google/android/
+- Extracting verify.sh
+  inflating: META-INF/com/google/android/update-binary.sha256
+  inflating: META-INF/com/google/android/update-binary
+  inflating: META-INF/com/google/android/updater-script.sha256
+  inflating: META-INF/com/google/android/updater-script
+Archive:  /data/user/0/zsjiaytb.wx/cache/flash/install.zip
+  inflating: customize.sh
+Archive:  /data/user/0/zsjiaytb.wx/cache/flash/install.zip
+  inflating: customize.sh.sha256
+Archive:  /data/user/0/zsjiaytb.wx/cache/flash/install.zip
+  inflating: verify.sh
+- Verified META-INF/com/google/android/update-binary
+Archive:  /data/user/0/zsjiaytb.wx/cache/flash/install.zip
+  inflating: verify.sh.sha256
+Archive:  /data/user/0/zsjiaytb.wx/cache/flash/install.zip
+  inflating: util_functions.sh
+Archive:  /data/user/0/zsjiaytb.wx/cache/flash/install.zip
+  inflating: util_functions.sh.sha256
+- Verified customize.sh
+- Verified verify.sh
+- Verified util_functions.sh
+- Android SDK version: 28
+- Magisk version: 24300
+Archive:  /data/user/0/zsjiaytb.wx/cache/flash/install.zip
+  inflating: module.prop
+Archive:  /data/user/0/zsjiaytb.wx/cache/flash/install.zip
+  inflating: module.prop.sha256
+Archive:  /data/user/0/zsjiaytb.wx/cache/flash/install.zip
+  inflating: post-fs-data.sh
+Archive:  /data/user/0/zsjiaytb.wx/cache/flash/install.zip
+  inflating: post-fs-data.sh.sha256
+- Installing from Magisk app
+- Device platform: arm
+- Extracting module files
+Archive:  /data/user/0/zsjiaytb.wx/cache/flash/install.zip
+  inflating: service.sh
+Archive:  /data/user/0/zsjiaytb.wx/cache/flash/install.zip
+  inflating: service.sh.sha256
+Archive:  /data/user/0/zsjiaytb.wx/cache/flash/install.zip
+  inflating: uninstall.sh
+Archive:  /data/user/0/zsjiaytb.wx/cache/flash/install.zip
+  inflating: uninstall.sh.sha256
+- Verified module.prop
+- Verified post-fs-data.sh
+- Verified service.sh
+- Verified uninstall.sh
+Archive:  /data/user/0/zsjiaytb.wx/cache/flash/install.zip
+  inflating: framework/lspd.dex
+Archive:  /data/user/0/zsjiaytb.wx/cache/flash/install.zip
+  inflating: framework/lspd.dex.sha256
+- Verified framework/lspd.dex
+Archive:  /data/user/0/zsjiaytb.wx/cache/flash/install.zip
+  inflating: daemon.apk
+Archive:  /data/user/0/zsjiaytb.wx/cache/flash/install.zip
+  inflating: daemon.apk.sha256
+- Verified daemon.apk
+Archive:  /data/user/0/zsjiaytb.wx/cache/flash/install.zip
+  inflating: daemon
+Archive:  /data/user/0/zsjiaytb.wx/cache/flash/install.zip
+  inflating: daemon.sha256
+- Verified daemon
+Archive:  /data/user/0/zsjiaytb.wx/cache/flash/install.zip
+  inflating: manager.apk
+Archive:  /data/user/0/zsjiaytb.wx/cache/flash/install.zip
+  inflating: manager.apk.sha256
+- Verified manager.apk
+- Extracting daemon libraries
+Archive:  /data/user/0/zsjiaytb.wx/cache/flash/install.zip
+  inflating: libdaemon.so
+Archive:  /data/user/0/zsjiaytb.wx/cache/flash/install.zip
+  inflating: libdaemon.so.sha256
+- Verified lib/armeabi-v7a/libdaemon.so
+Archive:  /data/user/0/zsjiaytb.wx/cache/flash/install.zip
+  inflating: liblspd.so
+Archive:  /data/user/0/zsjiaytb.wx/cache/flash/install.zip
+  inflating: liblspd.so.sha256
+- Verified lib/armeabi-v7a/liblspd.so
+Archive:  /data/user/0/zsjiaytb.wx/cache/flash/install.zip
+  inflating: system.prop
+Archive:  /data/user/0/zsjiaytb.wx/cache/flash/install.zip
+  inflating: system.prop.sha256
+- Verified system.prop
+- Welcome to LSPosed!
+rmdir: '/data/adb/modules_update/zygisk_lsposed': Directory not empty
+- Done
